@@ -1,6 +1,4 @@
-# 💫 About Me:
-Hi, I’m @ujjwal0-2<br>👀 I’m interested in ...coding<br>🌱 Passionate MERN stack developer with a flair for crafting robust and scalable web applications. Proficient in leveraging MongoDB, Express.js, React.js, and Node.js to build dynamic and interactive user experiences. Experienced in integrating third-party APIs, optimizing performance, and implementing best coding practices. Dedicated to staying updated with the latest technologies and continuously refining skills to deliver high-quality solutions. Let's collaborate and innovate together!"<br>📫 How to reach me ...sharmaujjwal200@gmail.com
-
+Hi 👋, I'm UJJWAL SHARMA
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharma_ujjwal_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ujjwal22) 
