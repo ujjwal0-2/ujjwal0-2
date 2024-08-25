@@ -1,4 +1,6 @@
 Hi 👋, I'm UJJWAL SHARMA
+![image](https://github.com/user-attachments/assets/923c78be-d819-4125-bd4c-9a1d19580b8b)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharma_ujjwal_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ujjwal22) 
